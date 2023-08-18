@@ -1,4 +1,2 @@
 
-  printfx("Hellow, World! xxxxx");
-
-xxxx
+  printf("Hellow, World! Great!");
